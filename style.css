@@ -1,0 +1,24 @@
+body{ background-color: rgb(222, 130, 194);}
+  
+
+h1{
+    color: black;
+    font-size: 4rem;
+    text-transform: uppercase;
+
+}
+
+.poster{
+    color: black;
+    width: 60%;
+    border: 5px;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 100px;
+    margin-left: 170px;
+}
+
+.motivation-img {border: 5px solid white ;
+    width: 100%;
+}
